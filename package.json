@@ -1,0 +1,17 @@
+{
+  "name": "saturno-memory-models",
+  "version": "1.0.0",
+  "description": "Memory-model ladder (baselines, LR, HLR, MLP) on the public Duolingo spaced-repetition dataset",
+  "scripts": {
+    "test": "node --test test/*.test.mjs",
+    "smoke": "node test/smoke.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.22.0"
+  },
+  "private": true
+}

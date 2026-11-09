@@ -1,0 +1,12 @@
+node_modules/
+.env
+.env.*
+.venv/
+.DS_Store
+# Dataset and everything derived from it (CC BY-NC 4.0, not redistributed)
+data/*
+!data/README.md
+*.csv.gz
+# Personal study events are never committed
+events.jsonl
+*.jsonl

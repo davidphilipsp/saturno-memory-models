@@ -1,0 +1,11 @@
+p_recall,timestamp,delta,user_id,learning_language,ui_language,lexeme_id,lexeme_string,history_seen,history_correct,session_seen,session_correct
+1.0,1362076081,86400,u:A,es,en,id1,es/es<vbser><pri><p3><sg>,3,2,2,2
+0.5,1362076082,172800,u:A,es,en,id2,lees/leer<vblex><pri><p2><sg>,6,5,4,2
+0.0,1362076083,0,u:B,fr,en,id3,suis/être<vbser><pri><p1><sg>,1,1,1,0
+0.75,1362076084,43200,u:B,fr,pt,id4,ceci/ceci<prn><dem><nt>,10,7,4,3
+1.0,1362076085,3600,u:C,en,pt,id5,"a,b/a<det><ind><sg>",2,2,1,1
+0.8,1362076086,604800,u:C,de,en,id6,<*sf>/sein<vbser><*numb>,13,10,5,4
+1.0,1362076087,90,u:D,it,en,id7,ciao/ciao<ij>,1,0,3,3
+0.0,1362076088,2592000,u:D,pt,en,id8,sou/ser<vbser><pri><p1><sg>,20,15,2,0
+0.6666666667,1362076089,86400,u:E,es,en,id1,es/es<vbser><pri><p3><sg>,4,3,3,2
+1.0,1362076090,259200,u:E,es,en,id9,libro/libro<n><m><sg>,7,7,2,2
